@@ -1,0 +1,4 @@
+week 12
+
+Experiment-12 (Test2- nuts classification )
+https://github.com/Mithzzx/NutsClassification_2.git
